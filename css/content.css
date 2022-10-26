@@ -1839,3 +1839,345 @@ transform: rotate(-19.21deg);
   text-align: right;
   text-transform: uppercase;
 }
+
+#sevenscreen {
+  position: relative;
+  display: block;
+  width: 1280px;
+  height: 857px;
+}
+
+.boook {
+  position: relative;
+  display: block;
+  width: 1097px;
+  height: 760px;
+  left: 91px;
+  top: 30px;
+}
+
+.bk {
+  position: relative;
+  display: block;
+  width: 1097px;
+  height: 760px;
+  margin-left: 0px;
+  margin-top: 16px;
+  /* left: 0px;
+  top: 16px; */
+}
+
+.murdered {
+  position: relative;
+  width: 365px;
+  height: 46px;
+  margin-left: 50px;
+  margin-top: -707px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.orient {
+  position: relative;
+  width: 365px;
+  height: 46px;
+  margin-left: 30px;
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.them {
+  position: relative;
+  width: 365px;
+  height: 46px;
+  margin-left: 50px;
+  margin-top: 37px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.roger {
+  position: relative;
+  width: 365px;
+  height: 46px;
+  margin-left: 34px;
+  margin-top: 2px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 46px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.and {
+  position: relative;
+  width: 43px;
+  height: 23px;
+  margin-left: 213px;
+  margin-top: 225px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 23px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.curatin {
+  position: relative;
+  width: 389px;
+  height: 49px;
+  margin-left: 42px;
+  margin-top: 33px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 49px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.last {
+  position: relative;
+  width: 389px;
+  height: 49px;
+  margin-left: -45px;
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 39px;
+  line-height: 49px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.agatha {
+  position: relative;
+  width: 105px;
+  height: 31px;
+  margin-left: 495px;
+  margin-top: -454px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24.32px;
+  line-height: 31px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.christie {
+  position: relative;
+  width: 105px;
+  height: 31px;
+  margin-left: 491px;
+  margin-top: 0px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24.32px;
+  line-height: 31px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.murder {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 503px;
+  margin-top: 24px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.onthe {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 497px;
+  margin-top: 7px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.orient2 {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 497px;
+  margin-top: 7px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.express {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 503px;
+  margin-top: 7px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.hercule {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 501px;
+  margin-top: 49px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.poiro {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 498px;
+  margin-top: 8px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+
+.mysterie {
+  position: relative;
+  width: 91px;
+  height: 25px;
+  margin-left: 490px;
+  margin-top: 7px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.mot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 664px;
+  margin-top: -474px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-25deg);
+}
+
+.uot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 695px;
+  margin-top: -67px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-18deg);
+}
+
+.rot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 725px;
+  margin-top: -67px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-17deg);
+}
+
+.dot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 759px;
+  margin-top: -63px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-7deg);
+}
+
+.eot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 785px;
+  margin-top: -60px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-1deg);
+}
+
+.r2ot {
+  position: relative;
+  width: 38px;
+  height: 56px;
+  margin-left: 785px;
+  margin-top: -60px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+  text-align: right;
+  text-transform: uppercase;
+  transform: rotate(-2deg);
+}
